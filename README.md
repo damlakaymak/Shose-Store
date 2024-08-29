@@ -1,3 +1,15 @@
+
+
+
+## Shose-Store
+
+## Gif
+
+<img  src= "shose.gif"/>
+
+
+
+
 # Teknolojiler
 
 - react
